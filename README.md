@@ -1,10 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=4998&pause=1000&random=false&width=435&lines=Hi%2C+I'm+j1zuz+%F0%9F%91%8B)
 
-###
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=j1zuzx&theme=transparent)](https://git.io/streak-stats)
-
-###
+[![GitHub Streak](https://streak-stats.demolab.com?user=j1zuzx&theme=transparent&locale=es)](https://git.io/streak-stats)
 
 <br clear="both">
 
