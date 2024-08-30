@@ -41,19 +41,19 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j1zuzx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j1zuzx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=j1zuzx&theme=transparent&border_radius=5.7" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=j1zuzz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j1zuzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=j1zuzz&theme=transparent&border_radius=5.7" alt="GitHub Streak" />
 
 
 ###
 
-<img src="https://raw.githubusercontent.com/j1zuzx/j1zuzx/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/j1zuzz/j1zuzz/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/j1zuzx/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/j1zuzz/count.svg?"  />
 </div>
 
 ###
